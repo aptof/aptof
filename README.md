@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aptof
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Svelte
-- 💞️ I’m looking to collaborate on Laravel and Svelte
+- 👀 I’m interested in Web Development, Desktop and Cross Platform
+- 🌱 I’m currently learning Java/Kotlin
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me developer.aptof@outlook.com
 
 <!---
